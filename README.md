@@ -2,47 +2,47 @@
 
 A modern, animated 3D developer portfolio built with React, Three.js, TailwindCSS, and motion effects — designed to help you stand out and showcase your skills creatively.
 
-![3d Portfolio Screenshot GitHub](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
+![3D Portfolio Screenshot](https://github.com/user-attachments/assets/9b0ed20e-074e-4f2a-81d8-20c9da751e9e)
 
 ---
 
 ## 📚 Table of Contents
 
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Assets](#-assets)
-- [Contact Me](#-contact-me)
-- [Suggestions or Feedback](#-suggestions-or-feedback)
-- [Like This Project?](#-like-this-project)
+* [Features](#-features)
+* [Tech Stack](#-tech-stack)
+* [Project Structure](#-project-structure)
+* [Getting Started](#-getting-started)
+* [Assets](#-assets)
+* [Contact](#-contact)
+* [Suggestions or Feedback](#-suggestions-or-feedback)
+* [Like This Project?](#-like-this-project)
 
 ---
 
 ## ✨ Features
 
-- 🔥 3D visuals powered by **React Three Fiber** and **Drei**
-- ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
-- 🎨 Clean, responsive UI with **TailwindCSS**
-- 💌 Working contact form using **EmailJS**
-- 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
-- 🚀 Lightning-fast development with **Vite**
+* 🔥 3D visuals powered by **React Three Fiber** and **Drei**
+* ⚡ Smooth transitions and scroll-based animations using **Framer Motion**
+* 🎨 Clean, responsive UI with **TailwindCSS**
+* 💌 Working contact form using **EmailJS**
+* 🧱 Beautiful UI enhancements with **Aceternity UI** and **Magic UI**
+* 🚀 Lightning-fast development with **Vite**
 
 ---
 
 ## 🛠 Tech Stack
 
-| Tech              | Description                           |
-|-------------------|---------------------------------------|
-| React             | Front-end JavaScript library          |
-| Vite              | Fast bundler and dev environment      |
-| TailwindCSS       | Utility-first CSS framework           |
-| React Three Fiber | 3D rendering with Three.js in React   |
-| Drei              | Helpers and abstractions for R3F      |
-| Framer Motion     | Animation library for React           |
-| EmailJS           | Form handling and email integration   |
-| Aceternity UI     | Custom UI components                  |
-| Magic UI          | Prebuilt UI elements and design extras|
+| Tech              | Description                            |
+| ----------------- | -------------------------------------- |
+| React             | Front-end JavaScript library           |
+| Vite              | Fast bundler and dev environment       |
+| TailwindCSS       | Utility-first CSS framework            |
+| React Three Fiber | 3D rendering with Three.js in React    |
+| Drei              | Helpers and abstractions for R3F       |
+| Framer Motion     | Animation library for React            |
+| EmailJS           | Form handling and email integration    |
+| Aceternity UI     | Custom UI components                   |
+| Magic UI          | Prebuilt UI elements and design extras |
 
 ---
 
@@ -55,10 +55,10 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 │   └── vite.svg
 ├── src/
 │   ├── components/         # Reusable components
-│   ├── constants/          # Reusable datas
+│   ├── constants/          # Reusable data
 │   ├── sections/           # Portfolio sections (Hero, About, etc.)
 │   ├── App.jsx             # Main app file
-│   ├── index.css           # Tailwind css
+│   ├── index.css           # Tailwind CSS
 │   └── main.jsx            # Entry point
 ├── tailwind.config.js
 └── vite.config.js
@@ -67,20 +67,56 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ---
 
 ## 🚀 Getting Started
-1. Clone the Repository
+
+### 1. Clone the Repository
+
 ```bash
-git clone 
-cd Portfolio
+git clone https://github.com/sj486869/Protfolio.git
+cd Protfolio
 ```
-2. Install Dependencies
+
+### 2. Install Dependencies
+
 ```bash
 npm install
 ```
-3. Run the Development Server
+
+### 3. Run the Development Server
+
 ```bash
 npm run dev
 ```
-The app will be available at http://localhost:5173.
+
+👉 The app will be available at:
+http://localhost:5173
 
 ---
 
+## 📦 Assets
+
+All assets such as images, textures, and 3D models are located inside the `public/assets` and `public/models` directories.
+
+---
+
+## 📞 Contact
+
+👤 **Suman Jana**
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+🌐 Portfolio: https://sj486869.github.io/Protfolio/
+💼 GitHub: https://github.com/sj486869
+
+---
+
+## 💡 Suggestions or Feedback
+
+If you have any suggestions, improvements, or feedback, feel free to open an issue or reach out directly.
+
+---
+
+## ⭐ Like This Project?
+
+If you found this helpful, give it a ⭐ on GitHub — it really helps!
+
+---
+
+🔥 Built with passion by **Suman Jana**

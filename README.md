@@ -71,8 +71,13 @@ A modern, animated 3D developer portfolio built with React, Three.js, TailwindCS
 ### 1. Clone the Repository
 
 ```bash
+<<<<<<< HEAD
 git clone https://github.com/sj486869/Protfolio.git
 cd Protfolio
+=======
+git clone https://github.com/Ali-Sanati/Portfolio.git
+cd Portfolio
+>>>>>>> 1e3a68d (Fixed import errors and updated project)
 ```
 
 ### 2. Install Dependencies
@@ -92,6 +97,7 @@ http://localhost:5173
 
 ---
 
+<<<<<<< HEAD
 ## 📦 Assets
 
 All assets such as images, textures, and 3D models are located inside the `public/assets` and `public/models` directories.
@@ -110,13 +116,44 @@ All assets such as images, textures, and 3D models are located inside the `publi
 ## 💡 Suggestions or Feedback
 
 If you have any suggestions, improvements, or feedback, feel free to open an issue or reach out directly.
+=======
+## 🔗 Assets
+Assets used in the project can be found [here](https://github.com/user-attachments/files/19820923/public.zip)
+
+---
+
+## 📬 Contact Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ali.sanatidev/reels/) 
+[![Static Badge](https://img.shields.io/badge/Youtube-%23FF0033?style=flat&logo=youtube)](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-sanati/) 
+
+---
+
+## 💡 Suggestions or Feedback?
+Leave a comment on the [YouTube video](https://youtu.be/S9UQItTpwUQ) or open an issue here on GitHub.<br/>
+👉 What should I build next?
+
+- A beautiful Landing Page
+
+- A complete E-commerce site
+
+- A fun App Clone (YouTube, Netflix, etc.)
+
+Or another interactive Portfolio
+
+Let me know!
+>>>>>>> 1e3a68d (Fixed import errors and updated project)
 
 ---
 
 ## ⭐ Like This Project?
+<<<<<<< HEAD
 
 If you found this helpful, give it a ⭐ on GitHub — it really helps!
 
 ---
 
 🔥 Built with passion by **Suman Jana**
+=======
+Star the repo and [subscribe](https://www.youtube.com/channel/UCZhtUWTtk3bGJiMPN9T4HWA??sub_confirmation=1) to the YouTube channel for more dev content!
+>>>>>>> 1e3a68d (Fixed import errors and updated project)
